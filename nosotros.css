@@ -20,7 +20,8 @@ body{
   border: 0;
   color:black;
  }
-font-family: 'Sometype Mono', monospace;
+
+  font-family: 'Sometype Mono', monospace;
   width:100%;
   height:7%;
   background: #f5e1be;
@@ -109,9 +110,6 @@ h5{
 
 .historia{
   
-  h2{
-    color: 
-  }
   font-family: 'Sometype Mono', monospace;
    background: #91c3ce;
   border: solid #1b1a19 5px;
